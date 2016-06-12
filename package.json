@@ -1,0 +1,23 @@
+{
+  "name": "learnyoureact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.15.1",
+    "express": "4.13.4",
+    "express-react-views": "0.10.2",
+    "react": "15.1.0",
+    "react-dom": "15.1.0"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-sass": "2.3.1"
+  }
+}
